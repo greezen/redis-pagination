@@ -10,6 +10,7 @@
             "email": "greezen@163.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
