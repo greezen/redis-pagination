@@ -1,0 +1,21 @@
+{
+    "name": "greezen/redis-pagination",
+    "description": "paginate with redis sorted set",
+    "keywords": ["redis", "paginate"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "greezen",
+            "email": "greezen@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "greezen\\": "src"
+        }
+      }
+}
