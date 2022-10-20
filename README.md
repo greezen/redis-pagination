@@ -1,3 +1,8 @@
+[![Latest Stable Version](http://poser.pugx.org/greezen/redis-pagination/v)](https://packagist.org/packages/greezen/redis-pagination) 
+[![Total Downloads](http://poser.pugx.org/greezen/redis-pagination/downloads)](https://packagist.org/packages/greezen/redis-pagination) 
+[![Latest Unstable Version](http://poser.pugx.org/greezen/redis-pagination/v/unstable)](https://packagist.org/packages/greezen/redis-pagination) 
+[![License](http://poser.pugx.org/greezen/redis-pagination/license)](https://packagist.org/packages/greezen/redis-pagination) 
+[![PHP Version Require](http://poser.pugx.org/greezen/redis-pagination/require/php)](https://packagist.org/packages/greezen/redis-pagination)
 
 ## Install
 
